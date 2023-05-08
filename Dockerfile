@@ -8,4 +8,4 @@ COPY . .
 
 CMD python3 main.py
 
-export GIT_PYTHON_REFRESH=quiet
+
