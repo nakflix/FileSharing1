@@ -47,7 +47,7 @@
      },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "mongodb+srv://Alpha:alpha3720@nakfilesharing1bot.dhcuswp.mongodb.net/?retryWrites=true&w=majority"
+      "value": "mongodb+srv://Alpha:alpha3720@nakflixsharing1bot.0au1xqc.mongodb.net/?retryWrites=true&w=majority"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
