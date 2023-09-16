@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": "5635565892:AAEGrTYxTmMeASUPUebfCVyWx5xb5FA5N7M"
+      "value": "6628559139:AAEpoWO36lbolGGxNK6IUMENLAOI8-AP-rE"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin di BOT [ Gunakan Spasi Untuk Pemisah User ID ]",
