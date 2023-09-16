@@ -33,7 +33,7 @@ HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", "cf493a35-2310-4162-a292-06afc
 UPSTREAM_BRANCH = os.environ.get("UPSTREAM_BRANCH", "master")
 
 # Database
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Alpha:alpha3720@nakfilesharing1bot.dhcuswp.mongodb.net/?retryWrites=true&w=majority")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Alpha:alpha3720@nakflixsharing1bot.0au1xqc.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DATABASE_NAME", "nakflixsharing1bot")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
